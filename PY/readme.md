@@ -1,1 +1,1 @@
-### This repo is narrate my journey with C language.
+### This repo is narrate my journey with Python language.

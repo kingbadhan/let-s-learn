@@ -1,4 +1,4 @@
-#### In this repo I can share my code (notes) of JS with You so Happy Coding
+### In this repo I can share my code of JS with You so enjoy it! Happy Coding
 
 # JavaScript History
 1. Popular web browser in 1995 is NetScape Navigator
